@@ -1,2 +1,2 @@
-# IT1000-1040
-A collaboration of all of my projects for IT1000 and It1040 
+# Project Respository for Mizzou IT1000/IT1040
+
